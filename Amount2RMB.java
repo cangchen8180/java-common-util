@@ -1,7 +1,7 @@
 /*  
  * Amount2RMB.java 2008-6-15   
  */  
-package test;   
+package com.jimi.utils;   
   
 import java.util.regex.Matcher;   
 import java.util.regex.Pattern;   
